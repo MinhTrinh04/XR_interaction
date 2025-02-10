@@ -12,7 +12,7 @@ public class XrPhysicsButtonInteractable : XRSimpleInteractable
     protected override void OnHoverEntered(HoverEnterEventArgs args)
     {
         base.OnHoverEntered(args);
-    }
+    } 
     protected override void OnHoverExited(HoverExitEventArgs args)
     {
         base.OnHoverExited(args);
